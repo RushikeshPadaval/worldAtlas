@@ -5,8 +5,8 @@ import { AppLayout } from './components/Layout/AppLayout';
 
 import './App.css'
 import { Contact } from './pages/Contact';
-import { Home } from './pages/Home';
 import { About } from './pages/About';
+import { Home } from './pages/Home';
 import { Country } from './pages/Country';
 import { ErrorPage } from './pages/ErrorPage';
 
